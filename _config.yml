@@ -31,7 +31,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: reinno io
 email: reinno@126.com
 description: reinno tech blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://reinno.github.io" # the base hostname & protocol for your site
 twitter_username: reinno
 github_username: reinno
 
