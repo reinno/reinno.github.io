@@ -3,7 +3,7 @@ layout: post
 title: 你一生的故事
 date: 2016-05-31 23:00:00 +0800
 keywords: "story of your lifes and others, function language, scala"
-categories: "function language"
+categories: "function-language"
 ---
 上周末在公司讲**Fast Track to Scala**的时候，吹水函数范式的时候又一次提起了Ted Chian的《你一生的故事》。
 
